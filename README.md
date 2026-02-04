@@ -21,3 +21,6 @@
 - You should see the argocd UI
 
 - See my other repos to deploy a simple nginx app using argocd
+
+<img width="1312" height="882" alt="argocd" src="https://github.com/user-attachments/assets/c0458728-a547-476a-8aae-a58fced70806" />
+

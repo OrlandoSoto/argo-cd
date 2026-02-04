@@ -18,7 +18,9 @@
 
 - Open your browser and go to either `localhost:8080` or `127.0.0.1:8080`
 
-- You should see the argocd UI
+- You should see the argocd UI, login with default username `admin`
+
+- Run this command to get the default password in plain unencoded text `kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d`
 
 - See my other repos to deploy a simple nginx app using argocd
 

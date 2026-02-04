@@ -19,3 +19,5 @@
 - Open your browser and go to either `localhost:8080` or `127.0.0.1:8080`
 
 - You should see the argocd UI
+
+- See my other repos to deploy a simple nginx app using argocd
